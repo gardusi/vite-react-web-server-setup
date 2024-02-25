@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Vite React web server setup
+
+This setup uses the Vite template for React and Typescript but also implements express, exposes the static website using vite-express, adds mappersmith for external API calls, and implements a very basic DI mechanism.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
